@@ -53,12 +53,12 @@ Cartographic Design  •  Automated Map Production
 
 | Project | Description | Links |
 |---------|-------------|-------|
-| 🌍 **Eastern Mau Forest LULC Analysis** | 40-year land cover change detection using Landsat & Sentinel-2 (published research) | [WebMap](https://droneverse.pro/webmap/) • [Paper](https://doi.org/10.48346/IMIST.PRSM/ajlp-gs.v8i7.54139) |
+| 🌍 **Eastern Mau Forest LULC Analysis** | 40-year land cover change detection using Landsat & Sentinel-2 (published research) | [WebMap](https://papayai.droneverse.pro/webmap/) • [Paper](https://doi.org/10.48346/IMIST.PRSM/ajlp-gs.v8i7.54139) |
 | 🗄️ **PostGIS Spatial Database Projects** | Environmental monitoring schemas, pgRouting network analysis, LULC change detection views | [Repo](https://github.com/passianymike-tech/postgis-spatial-database-projects) |
 | 🐍 **ArcGIS Python Automation** | ArcPy classification pipeline, NDVI analysis, satellite image processing scripts | [Repo](https://github.com/passianymike-tech/arcgis-python-automation) |
 | 📊 **Dashboards & Cloud GIS** | Multi-agency dashboard architectures, ArcGIS Online + Power BI integrations | [Repo](https://github.com/passianymike-tech/arcgis-dashboards-cloud-gis) |
 | 🛰️ **Remote Sensing Integration** | Satellite data integration workflows for environmental monitoring | [Repo](https://github.com/passianymike-tech/remote-sensing-gis-integration) |
-| 🚁 **Drone No-Fly Zone Platform** | Real-time compliance mapping for drone operators in Kenya | [Live](https://droneverse.pro/drone-no-flyzone/) |
+| 🚁 **Drone No-Fly Zone Platform** | Real-time compliance mapping for drone operators in Kenya | [Live](https://papayai.droneverse.pro/drone-no-flyzone/) |
 | 🌐 **Web & Desktop GIS Apps** | Portfolio of 10 GIS applications (5 web + 5 desktop) | [Repo](https://github.com/passianymike-tech/webgis-applications-portfolio) |
 | 📚 **GIS Training & Capacity Building** | 8 training programs, SOPs, and knowledge transfer plans | [Repo](https://github.com/passianymike-tech/gis-training-capacity-building) |
 
